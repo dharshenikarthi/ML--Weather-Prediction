@@ -139,9 +139,12 @@ for target in targets:
 
 ## Output:
 
-![alt text](<Screenshot 2026-11-17 122559.png>)
-![alt text](<Screenshot 2026-11-17 122618.png>)
-![alt text](<Screenshot 2026-11-17 122634.png>)
+
+<img width="1453" height="645" alt="image" src="https://github.com/user-attachments/assets/06b93045-1acb-4dbf-a30f-62fe6e088121" />
+
+<img width="1446" height="529" alt="image" src="https://github.com/user-attachments/assets/8cf41c10-e2ac-4857-9b67-21379da6d964" />
+
+<img width="1449" height="647" alt="image" src="https://github.com/user-attachments/assets/b044727c-8d09-41c3-9e2d-292d34b0c086" />
 
 ## Result:
 To write a program to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm has been done successfully.
